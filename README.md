@@ -8,9 +8,11 @@ Deriva de: [MPF00479852](https://github.com/justiciaparamargarita/mpf00479852)
 
 ## Archivos
 
+- 2020-06-28 [Mail «Consulta teórica» · cramirez@ → yo](2020/06/28/consulta-teorica.e1953.md)
 - 2020-07-12 [Mail «Denuncia 649606» · yo → fiscaliapcyf35@](2020/07/12/denuncia-649606.e1965.md)
 - 2020-07-15 [Mail «Re: Denuncia 649606» · yo → fiscaliapcyf35@](2020/07/15/denuncia-649606.e1966.md)
 - 2020-07-16 [Mail «Re: Denuncia 649606» · cramirez@ → yo](2020/07/16/denuncia-649606.e1970.md)
+- 2020-07-17 [Mail «Consulta teórica» · yo → cramirez@](2020/07/17/consulta-teorica.e1974.md)
 - 2020-07-21 [Mail «Re: Denuncia 649606» · tcristini@ → yo](2020/07/21/denuncia-649606.e1988.md)
 - 2020-07-21 [Mail «Re: Denuncia 649606» · yo → tcristini@](2020/07/21/denuncia-649606.e1989.md)
 - 2020-07-21 [Mail «Re: Denuncia 649606» · yo → tcristini@](2020/07/21/denuncia-649606.e1990.md)
